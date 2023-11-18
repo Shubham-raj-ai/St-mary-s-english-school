@@ -1,0 +1,187 @@
+@media (max-width:962px){
+    .po{
+        display: none;
+    }
+    .contact{
+        display: none;
+    }
+    .nav h1{
+        font-size: 3vmax;
+    }
+    .menu{
+        display: flex;
+    }
+    .info h1{
+        font-size: 5vmax;
+    }
+    .info p{
+        margin-right: 50px;
+        width: auto;
+    }
+    .stu{
+  margin-right: 3vw;
+  height: auto;
+  width: 80%;
+  margin-top: 40px;
+  position: revert;
+    }
+
+    .stu{
+        height: auto;
+    width: 102%;
+    margin-top: 40px;
+    position: relative;
+    top: 25px;
+    /* left: -2%; */
+    }
+    #go{
+        font-size: 35px;
+    }
+    .txt{
+        font-size: 16px;
+    }
+    .transport{
+        display: initial;
+    }
+    .jio{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+    }
+    .hoi{
+        /* padding: 0 100px; */
+        justify-self: center;
+        width: 75vw;
+    }
+    .bo{
+        margin-top: 50px;
+    }
+    .imj{
+        margin-left: 0;
+    }
+    #hio{
+        display: none;
+    }
+    #mio{
+        display: inherit;
+    }
+}
+
+@media (max-width:570px){
+    .info{
+        margin-left: 6vw;
+    }
+    .tex{
+        width: 90%;
+    }
+    .about{
+        width: 80vw;
+    }
+}
+
+@media (max-width:552px){
+    .stu{
+        height: auto;
+        width: 102%;
+        margin-top: 40px;
+        position: relative;
+        top: 25px;
+        left: 2px;
+    }
+}
+
+@media(max-width:740px){
+    .imj{
+        width: 85vw;
+    }
+}
+
+@media (max-width:690px){
+    .t-card{
+        width: 98vw;
+    }
+    .t-card img{
+        margin-top: -11%;
+    }
+}
+
+@media (max-width:436px){
+    .t-card img{
+        margin-top: -19%;
+    }
+}
+
+@media (max-width:838px){
+    footer{
+        display: grid;
+    }
+    .link{
+        margin: 30px 0;
+    }
+    .about{
+        width: 70vw;
+    }
+}
+
+@media (max-width:706px){
+    .prin{
+        width: 70vw;
+    }
+}
+
+@media(min-width:1800px){
+    .stu{
+        height: 13vw;
+    }
+    .card{
+  width: 80vw;
+    }
+    .facili{
+        width: 80vw;
+  justify-self: center;
+    }
+    .cen h1{
+        width: 80vw;
+        justify-self: center;
+        margin-top: 30xp;
+    }
+    .cen{
+        display: grid;
+        justify-content: center;
+    }
+    .about{
+        width: 10vw;
+    }
+}
+
+@media(min-width:2000px){
+    .stu{
+        height: 13vw;
+    }
+    .card{
+  width: 60vw;
+    }
+    .facili{
+        width: 60vw;
+  justify-self: center;
+    }
+    .cen h1{
+        width: 60vw;
+        justify-self: center;
+    }
+    .cen{
+        justify-content: center;
+    }
+    .about{
+        width: 10vw;
+    }
+}
+
+@media(max-width:269px){
+    #vaishnavi{
+        display: inherit;
+    }
+    #kio{
+        display: none;
+    }
+}
