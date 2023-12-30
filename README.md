@@ -22,3 +22,4 @@ If you have any feedback, please reach out to us at instagram
 
  https://techie-31.github.io/school_website/
 
+### 🚩 Jai Shri Ram 🚩
