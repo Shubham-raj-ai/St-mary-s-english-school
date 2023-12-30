@@ -21,5 +21,7 @@ If you have any feedback, please reach out to us at instagram
 ## Visit this website on 
 
  https://techie-31.github.io/school_website/
+ 
+ https://smess.netlify.app/
 
 ### 🚩 Jai Shri Ram 🚩
