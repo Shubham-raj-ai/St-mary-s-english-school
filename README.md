@@ -1,5 +1,5 @@
 # ST MARY'S ENGLISH SCHOOL
-This is my little project on my school. i created a website of my school.
+This is my little project on my school. I created a website of my school.
 
 ## 🚀 About Me
 I'm a full stack developer...
