@@ -1,5 +1,5 @@
 # ST MARY'S ENGLISH SCHOOL
-This website is design and devloped by techie_31
+This is my little project on my school. i created a website of my school.
 
 ## 🚀 About Me
 I'm a full stack developer...
