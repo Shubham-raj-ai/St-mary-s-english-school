@@ -1,10 +1,6 @@
 # ST MARY'S ENGLISH SCHOOL
 This is my little project on my school. I created a website of my school.
 
-## 🚀 About Me
-I'm a full stack developer...
-
-
 ## 🔗 Links
 
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=website&logoColor=white)]( https://techie-31.github.io/school_website/)
