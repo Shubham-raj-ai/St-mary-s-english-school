@@ -11,5 +11,3 @@ This is my little project on my school. I created a website of my school.
  https://techie-31.github.io/school_website/
  
  https://smess.netlify.app/
-
-### 🚩 Jai Shri Ram 🚩
