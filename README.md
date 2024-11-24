@@ -1,5 +1,5 @@
 # ST MARY'S ENGLISH SCHOOL
-This is my little project on my school. I created a website of my school.
+Simple website of my school 
 
 ## 🔗 Links
 
