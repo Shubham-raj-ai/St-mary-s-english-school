@@ -1,5 +1,5 @@
 # ST MARY'S ENGLISH SCHOOL
-Simple website of my school 
+Simple website for my school 
 
 ## 🔗 Links
 
